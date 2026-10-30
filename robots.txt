@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://judeawatkins.com/sitemap.xml
